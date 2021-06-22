@@ -19,7 +19,6 @@ html{
     color: crimson ;
 }
 
-
 /* all similar content styling codes */
 section{
     padding: 100px 0;
@@ -111,6 +110,7 @@ section .title::after{
     list-style: none;
     display: inline-block;
 }
+
 .navbar .menu li a{
     display: block;
     color: #fff;
