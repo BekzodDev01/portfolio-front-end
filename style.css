@@ -231,12 +231,21 @@ section .title::after{
     background: none;
 }
 
+.p-box{
+    width: 360px;
+}
 
+.p-box img{
+    width: 370px;
+}
 
 /* skills section styling */
 
 .skills .title::after{
     content: "what i know";
+}
+.projects{
+    margin-top: -100px !important;
 }
 .projects .title::after{
     content: "what i did";
@@ -319,6 +328,7 @@ section .title::after{
 /* Portfolio section styling */
 section .p-container{
     margin: auto;
+    width: 100%;
 }
 .marg-bottom{
     margin-bottom: 1.5rem;
